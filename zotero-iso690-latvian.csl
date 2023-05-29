@@ -2,14 +2,10 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
   <info>
     <title>ISO-690 (author-date, Latvian)</title>
-    <id>https://github.com/zingmars/zotero-lvsiso690-csl</id>
-    <link href="https://github.com/zingmars/zotero-lvsiso690-csl" rel="self"/>
-    <link href="https://github.com/zingmars/zotero-lvsiso690-csl" rel="documentation"/>
-    <author>
-      <name>Ingmars Daniels Melkis</name>
-      <email>contact@zingmars.me</email>
-    </author>
-    <!-- Original authors of the ISO690 CSL -->
+    <id>https://github.com/zingmars/zotero-iso690-latvian</id>
+    <link href="https://github.com/zingmars/zotero-iso690-latvian" rel="self"/>
+    <link href="https://github.com/zingmars/zotero-iso690-latvian" rel="documentation"/>
+    <link href="http://www.iso.org/iso/catalogue_detail.htm?csnumber=43320" rel="documentation"/>
     <author>
       <name>Laure Mellifluo</name>
       <email>laure.melli@gmail.com</email>
@@ -22,10 +18,14 @@
       <name>Michel Hardegger</name>
       <email>hardegger@gmail.com</email>
     </author>
+    <author>
+      <name>Ingmars Daniels Melkis</name>
+      <email>contact@zingmars.me</email>
+    </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>Style based on ISO 690:2010(E) v1.1, Adapted for LVS ISO 690:2010</summary>
-    <updated>2023-05-11T00:29:32+00:00</updated>
+    <updated>2022-05-11T00:29:32+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
